@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\bin\Debug\net6.0\0206266_BuiXuanTien_1.exe
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\bin\Debug\net6.0\0206266_BuiXuanTien_1.deps.json
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\bin\Debug\net6.0\0206266_BuiXuanTien_1.runtimeconfig.json
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\bin\Debug\net6.0\0206266_BuiXuanTien_1.dll
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\bin\Debug\net6.0\0206266_BuiXuanTien_1.pdb
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\obj\Debug\net6.0\0206266_BuiXuanTien_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\obj\Debug\net6.0\0206266_BuiXuanTien_1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\obj\Debug\net6.0\0206266_BuiXuanTien_1.AssemblyInfo.cs
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\obj\Debug\net6.0\0206266_BuiXuanTien_1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\obj\Debug\net6.0\0206266_BuiXuanTien_1.dll
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\obj\Debug\net6.0\refint\0206266_BuiXuanTien_1.dll
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\obj\Debug\net6.0\0206266_BuiXuanTien_1.pdb
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\obj\Debug\net6.0\0206266_BuiXuanTien_1.genruntimeconfig.cache
+C:\Users\PC\source\repos\0206266_BuiXuanTien_1\0206266_BuiXuanTien_1\obj\Debug\net6.0\ref\0206266_BuiXuanTien_1.dll

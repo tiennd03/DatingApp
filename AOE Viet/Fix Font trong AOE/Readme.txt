@@ -1,0 +1,1 @@
+Chep tat ca cac font nay vao thu muc Fonts trong C:\WINDOWS\Fonts

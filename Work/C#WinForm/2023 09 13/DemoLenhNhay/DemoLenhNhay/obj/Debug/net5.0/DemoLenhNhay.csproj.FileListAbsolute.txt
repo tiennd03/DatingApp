@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\bin\Debug\net5.0\DemoLenhNhay.exe
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\bin\Debug\net5.0\DemoLenhNhay.deps.json
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\bin\Debug\net5.0\DemoLenhNhay.runtimeconfig.json
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\bin\Debug\net5.0\DemoLenhNhay.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\bin\Debug\net5.0\DemoLenhNhay.dll
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\bin\Debug\net5.0\DemoLenhNhay.pdb
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\obj\Debug\net5.0\DemoLenhNhay.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\obj\Debug\net5.0\DemoLenhNhay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\obj\Debug\net5.0\DemoLenhNhay.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\obj\Debug\net5.0\DemoLenhNhay.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\obj\Debug\net5.0\DemoLenhNhay.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\obj\Debug\net5.0\DemoLenhNhay.dll
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\obj\Debug\net5.0\refint\DemoLenhNhay.dll
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\obj\Debug\net5.0\DemoLenhNhay.pdb
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\obj\Debug\net5.0\DemoLenhNhay.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoLenhNhay\DemoLenhNhay\obj\Debug\net5.0\ref\DemoLenhNhay.dll

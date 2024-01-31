@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\bin\Debug\net5.0\DemoList.exe
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\bin\Debug\net5.0\DemoList.deps.json
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\bin\Debug\net5.0\DemoList.runtimeconfig.json
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\bin\Debug\net5.0\DemoList.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\bin\Debug\net5.0\DemoList.dll
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\bin\Debug\net5.0\DemoList.pdb
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\obj\Debug\net5.0\DemoList.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\obj\Debug\net5.0\DemoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\obj\Debug\net5.0\DemoList.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\obj\Debug\net5.0\DemoList.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\obj\Debug\net5.0\DemoList.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\obj\Debug\net5.0\DemoList.dll
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\obj\Debug\net5.0\refint\DemoList.dll
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\obj\Debug\net5.0\DemoList.pdb
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\obj\Debug\net5.0\DemoList.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoList\DemoList\obj\Debug\net5.0\ref\DemoList.dll

@@ -1,0 +1,109 @@
+﻿
+@{
+    Layout = null;
+}
+
+<head>
+    <!-- Liên kết tệp CSS -->
+    <link rel="stylesheet" href="~/Content/cssLogin/style.css">
+    <!-- jQuery -->
+    <script src="~/Content/plugins/jquery/jquery.min.js"></script>
+</head>
+<div class="container" id="container">
+    <div class="form-container sign-in-container">
+        <form action="url_server" method="post" id="frm_data">
+            <h1>Đăng nhập</h1>
+            <input type="text" class="form-control require" id="TaiKhoan" name="TaiKhoan" placeholder="Tài khoản" />
+            <input type="password" class="form-control require" id="MatKhau" name="MatKhau" placeholder="Mật khẩu" />
+            <a href="#">Quên mật khẩu?</a>
+            <div class="card-footer" id="btn_DangNhap">
+                <div id="div_noft"></div>
+                <button type="button" class="btn btn-primary" id="btn_DangNhapAdmin">Đăng nhập admin</button>
+                <button type="button" class="btn btn-primary" id="btn_DangNhapPV">Đăng nhập PV</button>
+            </div>
+        </form>
+    </div>
+    <div class="overlay-container">
+        <div class="overlay">
+            <div class="overlay-panel overlay-left">
+                <h1>chào mừng trở lại!</h1>
+                <button class="ghost" id="signin">đăng nhập</button>
+            </div>
+            <div class="overlay-panel overlay-right">
+                <h1>XIN CHÀO!</h1>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        $('#btn_DangNhapAdmin').click(function () {
+            // Lặp qua tất cả các trường có class 'require'
+            var isValid = true;
+            $('.require').each(function () {
+                // Kiểm tra giá trị của từng trường
+                if ($(this).val() === '') {
+                    isValid = false;
+                    return false; // Kết thúc vòng lặp nếu có trường không được nhập
+                }
+            });
+
+            if (isValid) {
+                // Nếu tất cả các trường đã được nhập, tiến hành gửi AJAX
+                var formData = $('#frm_data').serialize();
+
+                $.ajax({
+                    url: '/Login/LoginAdmin', // Đổi đường dẫn tới action xử lý đăng nhập Admin
+                    type: 'POST',
+                    data: formData,
+                    success: function (result) {
+                        if (result.success) {
+                            window.location.href = result.redirectUrl;
+                        } else {
+                            alert(result.message);
+                        }
+                    },
+                    error: function (response) {
+                        alert('Đăng nhập không thành công');
+                    }
+                });
+            } else {
+                // Hiển thị thông báo nếu các trường bắt buộc chưa được nhập
+                alert('Vui lòng điền vào các trường bắt buộc.');
+            }
+        });
+
+        $('#btn_DangNhapPV').click(function () {
+            var isValid = true;
+            $('.require').each(function () {
+                if ($(this).val() === '') {
+                    isValid = false;
+                    return false;
+                }
+            });
+
+            if (isValid) {
+                var formData = $('#frm_data').serialize();
+
+                $.ajax({
+                    url: '/Login/LoginPV', // Đổi đường dẫn tới action xử lý đăng nhập PV
+                    type: 'POST',
+                    data: formData,
+                    success: function (result) {
+                        if (result.success) {
+                            window.location.href = result.redirectUrl;
+                        } else {
+                            alert(result.message);
+                        }
+                    },
+                    error: function () {
+                        alert('Đăng nhập không thành công');
+                    }
+                });
+            } else {
+                alert('Vui lòng điền vào các trường bắt buộc.');
+            }
+        });
+    });
+</script>

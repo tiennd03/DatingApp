@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "MztWMvgE6Y5U9sda2mUooD+VNl5dKJ26vedopoGN0Z644iDc3owVlFl/wfIRLAuNKBkiDnspCDk5d9SKNFvvIQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Work\\C#WinForm\\2023 11 01\\DemoDelegate\\DemoDelegate\\DemoDelegate.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    }
+  ]
+}

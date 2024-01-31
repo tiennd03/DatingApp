@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\bin\Debug\net5.0\DemoMang2ChieuHcn.exe
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\bin\Debug\net5.0\DemoMang2ChieuHcn.deps.json
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\bin\Debug\net5.0\DemoMang2ChieuHcn.runtimeconfig.json
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\bin\Debug\net5.0\DemoMang2ChieuHcn.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\bin\Debug\net5.0\DemoMang2ChieuHcn.dll
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\bin\Debug\net5.0\DemoMang2ChieuHcn.pdb
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\obj\Debug\net5.0\DemoMang2ChieuHcn.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\obj\Debug\net5.0\DemoMang2ChieuHcn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\obj\Debug\net5.0\DemoMang2ChieuHcn.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\obj\Debug\net5.0\DemoMang2ChieuHcn.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\obj\Debug\net5.0\DemoMang2ChieuHcn.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\obj\Debug\net5.0\DemoMang2ChieuHcn.dll
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\obj\Debug\net5.0\refint\DemoMang2ChieuHcn.dll
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\obj\Debug\net5.0\DemoMang2ChieuHcn.pdb
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\obj\Debug\net5.0\DemoMang2ChieuHcn.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 09 13\DemoMang2ChieuHcn\DemoMang2ChieuHcn\obj\Debug\net5.0\ref\DemoMang2ChieuHcn.dll

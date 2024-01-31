@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\bin\Debug\net5.0\DemoDictionary.exe
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\bin\Debug\net5.0\DemoDictionary.deps.json
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\bin\Debug\net5.0\DemoDictionary.runtimeconfig.json
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\bin\Debug\net5.0\DemoDictionary.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\bin\Debug\net5.0\DemoDictionary.dll
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\bin\Debug\net5.0\DemoDictionary.pdb
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\obj\Debug\net5.0\DemoDictionary.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\obj\Debug\net5.0\DemoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\obj\Debug\net5.0\DemoDictionary.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\obj\Debug\net5.0\DemoDictionary.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\obj\Debug\net5.0\DemoDictionary.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\obj\Debug\net5.0\DemoDictionary.dll
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\obj\Debug\net5.0\refint\DemoDictionary.dll
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\obj\Debug\net5.0\DemoDictionary.pdb
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\obj\Debug\net5.0\DemoDictionary.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\DemoCSharp\2023-2024\HK1\66PM34\2023 10 18\DemoDictionary\DemoDictionary\obj\Debug\net5.0\ref\DemoDictionary.dll
