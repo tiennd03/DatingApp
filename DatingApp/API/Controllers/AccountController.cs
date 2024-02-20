@@ -26,18 +26,19 @@ namespace API.Controllers
 
             using var hmac = new HMACSHA512();
 
-            var user = new AppUser // tao nguoi dung moi 
+            var user = new AppUser
             {
-                UserName = registerDto.Username,
-                PasswordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(registerDto.Password)), // chuyen password string sang byte 
+                UserName = registerDto.Username.ToLower(),
+                PasswordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(registerDto.Password)),
                 PasswordSalt = hmac.Key
             };
+
             context.Users.Add(user);
             await context.SaveChangesAsync();
 
             return new UserDto
             {
-                Username = user.UserName, 
+                Username = user.UserName,
                 Token = tokenService.CreateToken(user)
             };
         }
@@ -66,9 +67,9 @@ namespace API.Controllers
         }
 
         // dam bao tinh duy nhat cua Username
-        private async Task<bool> UserExists(string username)
-        {
-            return await context.Users.AnyAsync(x => x.UserName == username.ToLower());
-        }
+         private async Task<bool> UserExists(string username)
+       {
+        return await context.Users.AnyAsync(x => x.UserName == username.ToLower());
+       }
     }
 }
