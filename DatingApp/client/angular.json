@@ -50,10 +50,20 @@
               ],
               "outputHashing": "all"
             },
-            "development": {
+            // nếu trang web không load ra được môi trường(nhảy ra lỗi 404) thì chỉnh development này
+            "development": {  
+              "buildOptimizer": false,
               "optimization": false,
+              "vendorChunk": true,
               "extractLicenses": false,
-              "sourceMap": true
+              "sourceMap": true,
+              "namedChunks": true,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.development.ts"
+                }
+              ]
             }
           },
           "defaultConfiguration": "production"
@@ -103,6 +113,6 @@
     }
   },
   "cli": {
-    "analytics": "2672bdbe-f116-4e35-9c30-41a366ff860e"
+    "analytics": "4e84adf1-f410-4f70-9f4a-beb192b048dd"
   }
 }

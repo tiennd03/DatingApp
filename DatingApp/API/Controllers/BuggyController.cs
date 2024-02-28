@@ -1,39 +1,43 @@
-using API.Controllers;
 using API.Data;
+using API.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace API
+namespace API.Controllers;
+
+public class BuggyController : BaseApiController
 {
-    public class BuggyController : BaseApiController
-    {
-        private readonly DataContext context;
+private readonly DataContext _context;
         public BuggyController(DataContext context)
         {
-            this.context = context;
+            _context = context;
         }
 
         [Authorize]
-        [HttpGet("auth")]//kiem tra phan hoi 401 trai phep
+        [HttpGet("auth")]
         public ActionResult<string> GetSecret()
         {
             return "secret text";
         }
 
         [HttpGet("not-found")]
-        public ActionResult<string> GetNotFound()
+        public ActionResult<AppUser> GetNotFound()
         {
-            var thing = this.context.Users.Find(-1);
+            var thing = _context.Users.Find(-1);
+
             if (thing == null) return NotFound();
-            return Ok(thing);
+
+            return thing;
         }
 
         [HttpGet("server-error")]
-        public ActionResult<string> GetSeverError()
+        public ActionResult<string> GetServerError()
         {
-             var thing = this.context.Users.Find(-1);
-             var thingToReturn = thing.ToString();
-             return thingToReturn;
+            var thing = _context.Users.Find(-1);
+
+            var thingToReturn = thing.ToString();
+
+            return thingToReturn;
         }
 
         [HttpGet("bad-request")]
@@ -41,5 +45,4 @@ namespace API
         {
             return BadRequest("This was not a good request");
         }
-    }
 }

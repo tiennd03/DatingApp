@@ -7,9 +7,6 @@ C:\Users\PC\Desktop\DatingApp\API\bin\Debug\net7.0\API.dll
 C:\Users\PC\Desktop\DatingApp\API\bin\Debug\net7.0\API.pdb
 C:\Users\PC\Desktop\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\PC\Desktop\DatingApp\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\PC\Desktop\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\PC\Desktop\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\PC\Desktop\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\PC\Desktop\DatingApp\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
 C:\Users\PC\Desktop\DatingApp\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\PC\Desktop\DatingApp\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
