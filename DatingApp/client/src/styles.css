@@ -47,3 +47,11 @@
     border-top: 1px solid #eee;
     padding: 15px 0;
 }
+.nav-tabs {
+    --bs-nav-tabs-border-width: 0px;
+}
+
+.gallery {
+  height: 500px;
+  background-color: white;
+}
