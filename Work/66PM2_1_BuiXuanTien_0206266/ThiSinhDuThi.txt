@@ -1,0 +1,16 @@
+STT,,Ho va ten,,Ngay sinh,,Toan,,Tieng Anh,,Chuyen nganh,,Email
+1,,Le Trong Hung,,17.03.2002,,10,,9,,10,,hung@gmail.com
+2,,Hoang Tien Dung,,01.02.1998,,10,,6,,10,,dung@gmail.com
+3,,Nguyen Thanh Dat,,20.03.1997,,8,,4,,5,,dat@yahoo.com
+4,,Luong Van Duc,,20.02.2002,,10,,4,,8,,duc@yahoo.com 
+5,,Nguyen Anh Duc,,12.04.1996,,4,,8,,6,,anhduc@hotmail.com 
+6,,Nguyen Trung Duc,,23.12.2001,,5,,4,,7,,trungduc@gmail.com 
+7,,Nguyen Hoang Bang,,01.02.1998,,7,,9,,8,,bang@gmail,com 
+8,,Nguyen Nam Hai,,03.04.2002,,4,,4,,9,,hai@gmail.com 
+9,,Pham Viet Hai,,24.03.1999,,9,,4,,4,,viethai@gmail.com 
+10,,Bui Thi Hanh,,11.03.2001,,4,,8,,9,,hanh@gmail.com 
+11,,Nguyen Huy Hiep,,13.04.2002,,3,,6,,9,,hiep@gmail.com 
+12,,Bui Cong Hieu,,23.05.2002,,4,,9,,6,,hieu@hotmail.com 
+13,,Le Van Hieu,,01.01.2003,,7,,5,,9,,hieu@yahoo.com 
+14,,Nguyen Trung Hieu,,06.07.2002,,7,,4,,4trunghieu@rocketmail.com
+15,,Nguyen Huy Hoang,,30.11.1999,,5,,4,,5,,hoang@gmail.com
