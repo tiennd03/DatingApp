@@ -51,7 +51,6 @@
               ],
               "outputHashing": "all"
             },
-            // nếu trang web không load ra được môi trường(nhảy ra lỗi 404) thì chỉnh development này
             "development": {  
               "buildOptimizer": false,
               "optimization": false,
