@@ -11,7 +11,7 @@ namespace API.Data
     public class LikesRepository : ILikesRepository
     {
         private readonly DataContext context;
-        public LikesRepository(DataContext context)
+        public LikesRepository(DataContext context, AutoMapper.IMapper mapper)
         {
             this.context = context;
         }
